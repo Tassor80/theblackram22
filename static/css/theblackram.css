@@ -1,0 +1,461 @@
+
+body{
+	background: url('../images/t3_pattern.jpg?s=988888') center 0;
+}
+
+/*HEADER*/
+
+.cont-cabecera{
+	background-color: black;	
+}
+.cont-cabecera-list{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	line-height: 26px;
+}
+.cont-cabecera-item{
+	
+}
+.cont-cabecera-link{
+	font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+.color1{
+	color: #e85853;
+}
+.color2{
+	color: #7a7a7a;
+}
+
+
+
+
+.logo-1{
+	max-width: 100%;
+}
+.cont{
+	background-color: #e85853;
+}
+.cont-cabecera2{
+	background-color: #e85853;
+	
+}
+.cont-cabecera2-list{
+	text-align: center;
+	align-items: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.cont-cabecera2-item{
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 6px;
+
+}
+.cont-cabecera2-link{
+	font-family:  Georgia, serif;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+/*CONTENEDOR OFERTA*/
+
+.contenedoroferta{
+	background-color: black;
+	height: 100%;
+}
+.contenedoroferta-anuncio{
+	font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+   	padding-top: 60px;
+   	padding-bottom: 20px;
+}
+.color{
+	color: #e85853;
+}
+.colora{
+	color: #fff;
+	text-decoration: none;
+    border-bottom: 3px solid #e85853;
+    padding-bottom: 10px;
+}
+.contenedoroferta-anuncio2{
+	color: #e85853;
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+    line-height: 26px;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 60px;
+}
+.contenedoroferta-anuncio3{
+	color: #bcbcbc;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contenedoroferta-anuncio3-informacion{
+	color: #fff;
+	font-family: Georgia, serif;
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/*CONTENEDOR OFERTA2*/
+
+.contenedoroferta2{
+	background-color: #e85853;
+}
+.contenedoroferta2-anuncios{
+	color: black;
+    font-family:  Georgia, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.color-b{
+	color: #fff;
+}
+.medio{
+	padding-bottom: 50px;
+}
+.medio-item{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.medio-link{
+	color: black;
+	font-family: Georgia, serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+.imagen2{
+	text-align: center;
+}
+.contenedoroferta2-anuncios3{
+	font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    text-align: left;
+    color: #fff;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.contenedoroferta2-anuncios3-informacion{
+	font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.colora2{
+	color: black;
+	text-decoration: none;
+	border-bottom: 3px solid black;
+	padding-bottom: 10px;
+}
+.color2{
+	color: #fff;
+}
+.logo-3{
+	max-width: 100%;
+}
+
+/*CONTENEDOR MENU*/
+
+.contenedor1{
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+.menucomida{
+	background-color: black;
+}
+.menucomida-titulo{
+	font-family: Georgia, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+}
+.menucomida-titulo2{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.menucomida-link{
+	color: #bcbcbc;
+    font-family:  Georgia, serif;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 60px;
+    
+}
+.dolar{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+.menucomida-list{
+
+	
+}
+
+
+/*MENU OFERTAS*/
+
+
+.menuofertas-titulo{
+	color: #fff;
+    font-family: Georgia, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+}
+.menuofertas-titulo2{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.menuofertas-titulo3{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+}
+.imagen4{
+	text-align: center;	
+	padding-top: 60px;
+}
+.iman{
+	width: 90%;
+}
+
+.menuofertas-titulo3{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 20px;
+}
+.menuofertas-titulo4{
+	color: #bcbcbc;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+    line-height: 30px;
+    width: 90%;
+    margin: 0 auto;
+}
+.menuofertas-titulo5{
+	color: #fff;
+    font-family: Georgia, serif;
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 20px;
+}
+.contenemenuofertas-informacion{
+	color: #ffffff;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+}
+.cambiar{
+	color:  #e85853;
+}
+.contenemenuofertas-informacion{
+	margin-top: 20px;
+	color: #fff;
+	font-weight: bolder;
+}
+.cambiar2{
+	color: #e85853;
+}
+.cambio{
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 3px solid #e85853;
+	padding-bottom: 10px;
+	margin-bottom: 60px;
+}
+.contenemenuofertas-informacion{
+	margin-bottom: 50px;
+}
+
+/*DIRECCION*/
+.direccion{
+	background-color: black;
+}
+.direccion-titulo{
+	color: #fff;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px; 
+    max-width: 90%;
+    margin: 0 auto;
+}
+.you{
+	color: #e85853;
+}
+.direccion-titulo2{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+}
+.direccion-item{
+	text-align: center;
+	line-height: 40px;
+}
+.direccion-link{
+	text-decoration: none;
+	color: #666666;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-align: center;
+}
+.direccion-icono{
+	display: block;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.direccion-list2{
+	text-align: center;
+	margin-top: 120px;
+}
+.direccion-item2{
+	display: inline-block;
+	margin-right: 16px;
+	margin-bottom: 26px;
+}
+.direccion-free{
+	color: #777;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 26px;
+    max-width: 92%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*FOOTER*/
+.footer{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.footer-final{
+    color: #777;
+    font-family: Georgia, serif;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+  /*medias queries*/
+
+@media screen and (min-width: 661px) {
+        
+        .centrar{
+        	width: 650px;
+        	margin: 0 auto;
+        }
+
+
+.contenedorz{
+	display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+.letras{
+	display: block;
+}
+.contenedoroferta2-anuncios3{
+	text-align: left;
+	margin-left: 30px;
+}
+.contenedoroferta2-anuncios3-informacion{
+	text-align: left;
+	margin-left: 30px;
+}
+
+
+.contenedor1{
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.menucomida-item{
+	
+	padding-bottom: 10px; 
+}
+.menucomida-link{
+	color: #bcbcbc;
+    font-family:  Georgia, serif;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 60px;
+    
+}
+.dolar{
+	color: #e85853;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+ .direccion-list{
+    display: flex;
+   	justify-content: space-between;
+	align-items: center;
+   	margin-right: 80px ;
+   	margin-left: 80px ;
+ }
+        
+}
+        
+   
+
+
+
